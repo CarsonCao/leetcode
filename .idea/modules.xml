@@ -106,7 +106,6 @@
       <module fileurl="file://$PROJECT_DIR$/【119】【Pascal'sTriangleII】/【119】【Pascal'sTriangleII】.iml" filepath="$PROJECT_DIR$/【119】【Pascal'sTriangleII】/【119】【Pascal'sTriangleII】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【120】【Triangle】/【120】【Triangle】.iml" filepath="$PROJECT_DIR$/【120】【Triangle】/【120】【Triangle】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【121】【BestTimeToBuyAndSellStock】/【121】【BestTimeToBuyAndSellStock】.iml" filepath="$PROJECT_DIR$/【121】【BestTimeToBuyAndSellStock】/【121】【BestTimeToBuyAndSellStock】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【122】【Best Time to Buy and Sell Stock II】/【122】【Best Time to Buy and Sell Stock II】.iml" filepath="$PROJECT_DIR$/【122】【Best Time to Buy and Sell Stock II】/【122】【Best Time to Buy and Sell Stock II】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【124未】【BinaryTreeMaximumPathSum】/【124】【BinaryTreeMaximumPathSum】.iml" filepath="$PROJECT_DIR$/【124未】【BinaryTreeMaximumPathSum】/【124】【BinaryTreeMaximumPathSum】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【125】【ValidPalindrome】/【125】【ValidPalindrome】.iml" filepath="$PROJECT_DIR$/【125】【ValidPalindrome】/【125】【ValidPalindrome】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【127未】【WordLadder】/【127】【WordLadder】.iml" filepath="$PROJECT_DIR$/【127未】【WordLadder】/【127】【WordLadder】.iml" />
@@ -148,23 +147,6 @@
       <module fileurl="file://$PROJECT_DIR$/【223】【RectangleArea】/【223】【RectangleArea】.iml" filepath="$PROJECT_DIR$/【223】【RectangleArea】/【223】【RectangleArea】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【225】【ImplementStackUsingQueues】/【225】【ImplementStackUsingQueues】.iml" filepath="$PROJECT_DIR$/【225】【ImplementStackUsingQueues】/【225】【ImplementStackUsingQueues】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【226】【InvertBinaryTree 】/【226】【InvertBinaryTree 】.iml" filepath="$PROJECT_DIR$/【226】【InvertBinaryTree 】/【226】【InvertBinaryTree 】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【231】【Power of Two】/【231】【Power of Two】.iml" filepath="$PROJECT_DIR$/【231】【Power of Two】/【231】【Power of Two】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【232】【Implement Queue using Stacks】/【232】【Implement Queue using Stacks】.iml" filepath="$PROJECT_DIR$/【232】【Implement Queue using Stacks】/【232】【Implement Queue using Stacks】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【234】【Palindrome Linked List】/【234】【Palindrome Linked List】.iml" filepath="$PROJECT_DIR$/【234】【Palindrome Linked List】/【234】【Palindrome Linked List】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【235】【Lowest Common Ancestor of a Binary Search Tree】/【235】【Lowest Common Ancestor of a Binary Search Tree】.iml" filepath="$PROJECT_DIR$/【235】【Lowest Common Ancestor of a Binary Search Tree】/【235】【Lowest Common Ancestor of a Binary Search Tree】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【237】【Delete Node in a Linked List】/【237】【Delete Node in a Linked List】.iml" filepath="$PROJECT_DIR$/【237】【Delete Node in a Linked List】/【237】【Delete Node in a Linked List】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【242】【Valid Anagram】/【242】【Valid Anagram】.iml" filepath="$PROJECT_DIR$/【242】【Valid Anagram】/【242】【Valid Anagram】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【257】【Binary Tree Paths】/【257】【Binary Tree Paths】.iml" filepath="$PROJECT_DIR$/【257】【Binary Tree Paths】/【257】【Binary Tree Paths】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【258】【Add Digits】/【258】【Add Digits】.iml" filepath="$PROJECT_DIR$/【258】【Add Digits】/【258】【Add Digits】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【263】【Ugly Number】/【263】【Ugly Number】.iml" filepath="$PROJECT_DIR$/【263】【Ugly Number】/【263】【Ugly Number】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【268】【Missing Number】/【268】【Missing Number】.iml" filepath="$PROJECT_DIR$/【268】【Missing Number】/【268】【Missing Number】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【278】【First Bad Version】/【278】【First Bad Version】.iml" filepath="$PROJECT_DIR$/【278】【First Bad Version】/【278】【First Bad Version】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【283】【Move Zeroes】/【283】【Move Zeroes】.iml" filepath="$PROJECT_DIR$/【283】【Move Zeroes】/【283】【Move Zeroes】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【290】【Word Pattern】/【290】【Word Pattern】.iml" filepath="$PROJECT_DIR$/【290】【Word Pattern】/【290】【Word Pattern】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【303】【Range Sum Query - Immutable】/【303】【Range Sum Query - Immutable】.iml" filepath="$PROJECT_DIR$/【303】【Range Sum Query - Immutable】/【303】【Range Sum Query - Immutable】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【326】【Power of Three】/【326】【Power of Three】.iml" filepath="$PROJECT_DIR$/【326】【Power of Three】/【326】【Power of Three】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【342】【Power of Four】/【342】【Power of Four】.iml" filepath="$PROJECT_DIR$/【342】【Power of Four】/【342】【Power of Four】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/【344】【Reverse String】/【344】【Reverse String】.iml" filepath="$PROJECT_DIR$/【344】【Reverse String】/【344】【Reverse String】.iml" />
     </modules>
   </component>
 </project>
